@@ -1,0 +1,1 @@
+Nesse sistema fiz um processo seletivo que filtra os candidatos pelo valor que eles pretendem receber, tendo um salário base de 2000, ficariam de fora os candidatos que ultrupassarem o salário base. 
